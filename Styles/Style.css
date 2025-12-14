@@ -1,0 +1,28 @@
+a {
+    border:10px lightblue solid;
+    border-radius:10px;
+    background-color:lightblue;
+    color:black;
+     font-size:30px;
+}
+h1 {
+    .sekuya-regular{
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  color:white
+
+}
+}
+img, a{
+  border-radius:10px;
+  width:500px;
+  height:300px
+}
+body {
+    background-color: black;
+}
+p {
+    color:white;
+}
